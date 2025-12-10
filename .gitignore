@@ -20,3 +20,9 @@ Thumbs.db
 
 # Project specific
 *.log
+=0.9.0
+=2.9.0
+app.py:Zone.Identifier
+populate.sql:Zone.Identifier
+requirements.txt:Zone.Identifier
+schema.sql:Zone.Identifier
